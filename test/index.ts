@@ -32,4 +32,28 @@ describe("LearningToken", () => {
 
     //
   });
+
+  it("Creates Crowdsale", async () => {
+    //
+  });
+
+  it("Verify that crowdsale creator got 30% of allocated tokens", async () => {
+    //
+  });
+
+  it("Buy LearningToken for 0.01 ETH", async () => {
+    //
+  });
+
+  it("Buy LearningToken for 0.1 ETH", async () => {
+    //
+  });
+
+  it("Buy LearningToken for 1 ETH", async () => {
+    //
+  });
+
+  it("Count ETH ", async () => {
+    //
+  });
 });
